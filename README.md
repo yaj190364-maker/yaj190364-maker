@@ -55,10 +55,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexoft-ke&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=codexoft-ke&theme=radical" alt="Activity Graph" />
-</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -68,6 +64,3 @@
 ## 🤝 Let's Connect
 <div align="center">
     </div>
-
----
-⭐️ From ![yaj190364-maker](https://github.com/yaj190364-maker)
