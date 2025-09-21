@@ -63,11 +63,21 @@
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 
-## 🏆 GitHub Trophies
+## 📝 Random Dev Quote
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=codexoft-ke&theme=radical" alt="GitHub Trophies" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
 ## 🤝 Let's Connect
 <div align="center">
+<a href="https://github.com/yaj190364-maker" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-yaj--190364-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
     </div>
+    <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
+
+## Show some ❤️ by starring some of the repositories!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
