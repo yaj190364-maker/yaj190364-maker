@@ -70,4 +70,4 @@
     </div>
 
 ---
-⭐️ From GitHUB!!!!!!![yaj190364-maker](https://github.com/yaj190364-maker)
+⭐️ From ![yaj190364-maker](https://github.com/yaj190364-maker)
