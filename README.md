@@ -1,5 +1,9 @@
 # <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I Will Provide Good Services For You! IWPGSFY! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&width=600&lines=Hello%2C+I'm+Ya+J;Full+Stack+Developer;Android+AI" alt="Typing SVG" />
+
+<a href="https://github.com/hassanrj-3108"><img src="https://i.imgur.com/A6bWGFl.gif" width="100%"></a>
+
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <img src="https://github.com/monkey531/assets/blob/main/274604631-59163c56-55ac-4813-b4aa-b57082e708e6.gif" align="middle" alt="Banner" width="100%"/>
