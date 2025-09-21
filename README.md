@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I Will Provide Good Services For You! IWPGSFY! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I Will Provide Good Services For You! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&width=600&lines=Hello%2C+I'm+Ya+J;Full+Stack+Developer;Android+AI" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+Must+Provide+Good+Services+For+You+!;Always+For+You" alt="Typing SVG" />
 </div>
 
 
