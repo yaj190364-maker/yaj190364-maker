@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I Will Provide Good Services For You! IWPGSFY!
+# <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I Will Provide Good Services For You! IWPGSFY! <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px">
 
 <img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
@@ -27,6 +27,7 @@
 <br/>
 <br/>
 <br/>
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
@@ -54,6 +55,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexoft-ke&theme=radical" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexoft-ke&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<img src="https://github.com/monkey531/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 
 ## 🏆 GitHub Trophies
